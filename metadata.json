@@ -1,0 +1,19 @@
+{
+  "name": "gbrown-yumrepos",
+  "version": "0.0.3",
+  "source": "UNKNOWN",
+  "author": "George Brown",
+  "license": "MIT",
+  "summary": "Adds yumrepos from parameters",
+  "description": "Module for configuring yum repos agnostically",
+  "project_page": "http://github.com/D43m0n/yumrepos",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">=3.0.0"
+    }
+  ],
+  "types": [
+
+  ]
+}
